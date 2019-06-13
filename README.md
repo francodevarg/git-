@@ -99,3 +99,7 @@ Historial de los commit.
 ### git push --tags
 
 
+# Historial de branchs y commits
+
+### git log --oneline --graph --all
+
